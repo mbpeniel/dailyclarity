@@ -80,7 +80,7 @@ ul a {
 .banner {
     width: 100%;
     height: 500px;
-    background-image: linear-gradient(rgba(20, 20, 74, 0.317),rgba(36, 2, 36, 0.317)),url(/img/banner.jpg);
+    background-image: linear-gradient(rgba(20, 20, 74, 0.317),rgba(36, 2, 36, 0.317)),url(img/BANNER.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 70px;  
